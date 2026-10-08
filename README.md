@@ -4,7 +4,7 @@
 
 A RESTful API service designed to map dependencies between services and provide basic information about services in your ecosystem.
 
-_Note_ This API was designed as a project to learn Go. If you wish to use it, you can, but you should put it behind an API gateway or something to make it secure.
+Service Atlas began as an exploration of Go and has evolved into an open-source platform for modeling service dependencies, ownership, releases, and operational risk. It is intended for internal or trusted environments and should be deployed with appropriate authentication and network controls.
 
 ## Overview
 
